@@ -63,6 +63,19 @@ The tool is typically integrated into a system by running it as a binary executa
 
 The binary can be run manually, set up as a system service (e.g., systemd on Linux), or configured to start automatically on boot. This allows for flexible deployment and integration into various system management workflows.
 
+## Screenshots
+
+| Light | Dark |
+|----------|----------|
+| <img src="https://github.com/GopalVerma1303/HardMon/blob/93eec0422fa2332e6a1821df49371c68ab2fefb0/ss-light.png" /> | <img src="https://github.com/GopalVerma1303/HardMon/blob/93eec0422fa2332e6a1821df49371c68ab2fefb0/ss-dark.png" /> |
+
+| Section | SS |
+|----------|----------|
+| System | <img src="https://github.com/GopalVerma1303/HardMon/blob/93eec0422fa2332e6a1821df49371c68ab2fefb0/system.png" /> |
+| CPU | <img src="https://github.com/GopalVerma1303/HardMon/blob/93eec0422fa2332e6a1821df49371c68ab2fefb0/cpu.png" /> |
+| Disk | <img src="https://github.com/GopalVerma1303/HardMon/blob/93eec0422fa2332e6a1821df49371c68ab2fefb0/disk.png" /> |
+| Network | <img src="https://github.com/GopalVerma1303/HardMon/blob/93eec0422fa2332e6a1821df49371c68ab2fefb0/network.png" /> | 
+
 ## 📝 Documentation
 
 For detailed documentation on each component and usage instructions, please refer to the `docs` folder.
